@@ -24,48 +24,52 @@ I'm passionate about building full-stack web applications using Java, Spring Boo
 
 ## 🧩 Projects I've Completed
 
-### 💱 Currency Tracker
-<hr style="border:0.5px solid #e6e6e6;">
 
-A real-time currency conversion web app that supports 80+ currencies.  
-Fetches live rates using an API and allows instant conversion.  
-**Tech Stack:** HTML, CSS, JavaScript, Fixer API  
-
-
-### 📲 Quick Hire App
-<hr style="border:0.5px solid #e6e6e6;">
-
-A simple and interactive hiring-assistance web application built using HTML, CSS, and Vanilla JavaScript.  
-It allows users to explore job roles, view requirements, understand the application process, and access quick info through a clean responsive UI.  
-**Tech Stack:** HTML, CSS, JavaScript (Vanilla JS)  
-
-### 📦 Inventory App (Mini CRUD)
-<hr style="border:0.5px solid #e6e6e6;">
-
-A compact CRUD application focused on practicing inventory features and database operations.  
-**Tech Stack:** Java, Spring Boot, MySQL  
-
-### 🧠 DSA Practice Repository
-<hr style="border:0.5px solid #e6e6e6;">
-
-A collection of solved DSA problems across Arrays, Strings, Trees, Graphs, Dynamic Programming, and more.  
-Clean solutions and explanations included.  
-**Tech Stack:** Java  
-
-### 🌐 Portfolio Website (Upcoming)
-<hr style="border:0.5px solid #e6e6e6;">
-
-A personal website to showcase projects, skills, achievements, and contact information — to be deployed on GitHub Pages or Netlify.  
-**Tech Stack:** HTML, CSS, JavaScript  
-
-### 🌱 Currently Learning
-<hr style="border:0.5px solid #e6e6e6;">
-
-- Advanced Spring Boot  
-- Full Stack Project Architecture  
-- Intermediate → Advanced DSA  
+### 🧱 Inventory Management System
+A web-based system to manage product stock, categories, vendors, and orders.  
+Features include CRUD operations, stock alerts, and a user-friendly UI.  
+**Tech Stack:** Java, Spring Boot, MySQL, HTML, CSS
 
 ---
+
+### 💱 Currency Tracker
+A real-time currency conversion web app that supports 80+ currencies.  
+Fetches live rates using an API and allows instant conversion.  
+**Tech Stack:** HTML, CSS, JavaScript, Fixer API
+
+---
+
+### 📲 Quick Hire App
+A simple and interactive hiring-assistance web application built using **HTML, CSS, and Vanilla JavaScript**.  
+It allows users to explore job roles, view requirements, and understand the application process.  
+**Tech Stack:** HTML, CSS, JavaScript (Vanilla JS)
+
+---
+
+### 📦 Inventory App (Mini CRUD)
+A compact CRUD application focused on practicing inventory features and database interactions.  
+**Tech Stack:** Java, Spring Boot, MySQL
+
+---
+
+### 📚 Library Management System
+A full-stack CRUD system to manage books, students, and transactions with role-based access and an admin dashboard.  
+**Tech Stack:** Java, Spring Boot, MySQL, Thymeleaf
+
+---
+
+### 🧠 DSA Practice Repository
+A collection of solved DSA problems across Arrays, Strings, Trees, Graphs, Dynamic Programming, and more.  
+**Tech Stack:** Java
+
+---
+
+### 🌐 Portfolio Website (Upcoming)
+A personal website to showcase projects, skills, and achievements — to be deployed on GitHub Pages or Netlify.  
+**Tech Stack:** HTML, CSS, JavaScript
+
+---
+
 
 ## 📬 Connect With Me
 
