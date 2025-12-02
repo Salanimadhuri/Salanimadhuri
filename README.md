@@ -16,16 +16,8 @@ Currently improving my DSA, Spring Boot projects, and web development skills.
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge)
 
----
 
-## 🌱 Currently Learning
-- Spring Boot (Advanced)
-- Full Stack Development
-- DSA (Arrays, Strings, Trees, DP)
 
----
-
-## 🧩 Projects I'm Working On
 ## 🧩 Projects I've Completed
 
 ### 🏭 Inventory Management System  
@@ -57,8 +49,8 @@ Tech Stack: HTML, CSS, JavaScript (Vanilla JS)
 ---
 
 ## 📫 Connect With Me
-📧 Email: *your email here*  
-🌐 Portfolio (optional)
+📧 Email: *salanimadhuri19@gmail.com*  
+
 
 ---
 
