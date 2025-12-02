@@ -31,7 +31,6 @@ A real-time currency conversion web app that supports 80+ currencies.
 Fetches live rates using an API and allows instant conversion.  
 **Tech Stack:** HTML, CSS, JavaScript, Fixer API  
 
----
 
 ### 📲 Quick Hire App
 <hr style="border:0.5px solid #e6e6e6;">
@@ -40,15 +39,11 @@ A simple and interactive hiring-assistance web application built using HTML, CSS
 It allows users to explore job roles, view requirements, understand the application process, and access quick info through a clean responsive UI.  
 **Tech Stack:** HTML, CSS, JavaScript (Vanilla JS)  
 
----
-
 ### 📦 Inventory App (Mini CRUD)
 <hr style="border:0.5px solid #e6e6e6;">
 
 A compact CRUD application focused on practicing inventory features and database operations.  
 **Tech Stack:** Java, Spring Boot, MySQL  
-
----
 
 ### 🧠 DSA Practice Repository
 <hr style="border:0.5px solid #e6e6e6;">
@@ -57,15 +52,11 @@ A collection of solved DSA problems across Arrays, Strings, Trees, Graphs, Dynam
 Clean solutions and explanations included.  
 **Tech Stack:** Java  
 
----
-
 ### 🌐 Portfolio Website (Upcoming)
 <hr style="border:0.5px solid #e6e6e6;">
 
 A personal website to showcase projects, skills, achievements, and contact information — to be deployed on GitHub Pages or Netlify.  
 **Tech Stack:** HTML, CSS, JavaScript  
-
----
 
 ### 🌱 Currently Learning
 <hr style="border:0.5px solid #e6e6e6;">
