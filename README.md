@@ -40,12 +40,6 @@ A simple and interactive hiring assistance web application built using HTML, CSS
 It allows users to explore job roles, view requirements, understand the application process, and access quick information through a clean and responsive UI.
 Tech Stack: HTML, CSS, JavaScript (Vanilla JS)
 
-
-## 📊 GitHub Stats
-![Madhuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=Salanimadhuri&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Salanimadhuri&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Connect With Me
